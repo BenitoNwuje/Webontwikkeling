@@ -1,0 +1,11 @@
+{
+    "groet": "hallo",
+    "naam": "sven",
+    "leeftijd": 39,
+    "leefnog": true,
+    "lessen":["webontwikkeling", "software security"],
+    "address": { 
+        "straat": "dorpstraat",
+        "nummmer": 13
+    }
+}
