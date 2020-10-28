@@ -1,0 +1,11 @@
+{
+  "name": "labo-6",
+  "version": "1.0.0",
+  "main": "rest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benito",
+  "license": "ISC",
+  "description": "oefening labo 6"
+}

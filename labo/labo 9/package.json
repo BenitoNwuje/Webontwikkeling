@@ -1,0 +1,14 @@
+{
+  "name": "labo",
+  "version": "1.0.0",
+  "description": "labo oefeningen week 9",
+  "main": "jokes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benito Nwuje",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

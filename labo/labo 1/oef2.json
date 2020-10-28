@@ -1,0 +1,22 @@
+{
+    "Producten":[
+        {
+            "naam":"Sims 4",
+            "beschrijving":"life simulation game",
+            "prijs": 30,
+            "stock": 234 
+        },
+        {
+            "naam":"Dark souls",
+            "beschrijving":"survival game",
+            "prijs": 40,
+            "stock": 34  
+        },
+        {
+            "naam":"Legend of Zelde",
+            "beschrijving":"survival-adventure game ",
+            "prijs": 50,
+            "stock": 4    
+        }
+    ]
+}
